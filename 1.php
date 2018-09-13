@@ -10,7 +10,7 @@ $init = new Bom();
 
 //Eksekusi Call/Sms Boomber (Limit 100x/Jam)
 
-echo "Nomor Target : ";
+echo "</> Number Victim : ";
 $a = trim(fgets(STDIN));
 $init->no = "$a";
 $init->type = 2; //Type 2 untuk telpon, Type 1 untuk sms
