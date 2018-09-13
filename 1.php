@@ -13,8 +13,11 @@ $init = new Bom();
 echo "</> Number Victim : ";
 $a = trim(fgets(STDIN));
 $init->no = "$a";
-$init->type = 2; //Type 2 untuk telpon, Type 1 untuk sms
+echo "</> Select 1 or 2 : ";
+$b = trim(fgets(STDIN));
+$init->type = "$b"; //Type 2 untuk telpon, Type 1 untuk sms
 //$init->no = "0895371761108"; //Nomer Hp tujuan
+echo"Note* Type 1 For SMS, Type 2  For Spam Call"; 
 
 if ($init->type == 1) {
 	for ($i=0; $i < 2; $i++) { 
