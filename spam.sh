@@ -5,6 +5,7 @@ print("""\
   /  |/  /  _/ _ \/ / | Make-It-Ring!
  / /|_/ // // , _/_/  | Author: Priv8-L1ng
 /_/  /_/___/_/|_(_)   | https://github.com/mlingga1
+_____________________________________________________
 """)
 echo "<--々Spam By Priv8-L1ng々-->"
 sleep 1
