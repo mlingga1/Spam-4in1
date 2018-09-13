@@ -1,6 +1,6 @@
 #!/system/xbin/bash
 clear
-toilet -f mono13 --gay "Spam By Priv8-L1ng"
+echo "<--々Spam By Priv8-L1ng々-->"
 sleep 1
 echo "\033[31;1m List Tool Spam"
 sleep 1
@@ -78,9 +78,9 @@ if
 [ $mrrm = 7 ] || [ $mrrm = 7 ]
 then
 clear
-toilet -f standard -F gay "Tri"
+toilet -f mono12 -F gay "Tri"
 echo "\033[33;1m"
-python2 7.py
+php 7.php
 fi
 
 if
