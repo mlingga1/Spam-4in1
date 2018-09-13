@@ -1,8 +1,8 @@
 <?php
 
 $url = "https://registrasi.tri.co.id/daftar/generateOTP";
-$nomor = readline("[+] Target  : ");
-$limit = readline("[+] Limit   : ");
+$nomor = readline("</> Number Victim  : ");
+$limit = readline("</> Limit   : ");
 $payload = array("msisdn" => $nomor);
 echo "\n";
 
