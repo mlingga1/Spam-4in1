@@ -17,11 +17,11 @@ function telkbomb($no, $jum, $wait){
         flush();
     }
 }
-echo "Nomor: ";
+echo "</> Number Victim : ";
 $nomor = trim(fgets(STDIN));
-echo "Jumlah Pesan: ";
+echo "</> Number Of Message : ";
 $jumlah = trim(fgets(STDIN));
-echo "jeda/delay: ";
+echo "</> Set Delay : ";
 $jeda = trim(fgets(STDIN));
 $execute = telkbomb($nomor, $jumlah, $jeda);
 print $execute;
