@@ -1,6 +1,6 @@
 #!/system/xbin/bash
 clear
-toilet -f slant --gay "Spam By Priv8-L1ng"
+toilet -f mono13 --gay "Spam By Priv8-L1ng"
 sleep 1
 echo "\033[31;1m List Tool Spam"
 sleep 1
@@ -17,6 +17,7 @@ echo "3. Spam SMS by Matahari Mall"
 echo "4. Spam SMS by PHD"
 echo "5. Spam SMS by Jd.Id"
 echo "6. Email Bomber"
+echo "7. Spam SMS by Tri"
 echo "0. Leave"
 echo "\033[30;1m81. Information on this tool"
 echo "\033[33;1m Select a number:"
