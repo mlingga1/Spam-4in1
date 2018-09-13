@@ -75,7 +75,7 @@ python2 6.py
 fi
 
 if
-[ $mrrm = 6 ] || [ $mrrm = 6 ]
+[ $mrrm = 7 ] || [ $mrrm = 7 ]
 then
 clear
 toilet -f standard -F gay "Tri"
