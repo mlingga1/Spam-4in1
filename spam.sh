@@ -1,6 +1,6 @@
 #!/system/xbin/bash
 clear
-toilet -f slant --gay "LiteSpam"
+toilet -f slant --gay "Spam By Priv8-L1ng"
 sleep 1
 echo "\033[31;1m List Tool Spam"
 sleep 1
@@ -10,22 +10,22 @@ echo "\033[32;1m ★Contact: kepo anjing"
 sleep 1
 echo "\033[34;1m ★Bekasi Sequrity"
 sleep 1
-echo "\033[36;1m Spam Yang Tersedia :"
-echo "1. Tokopedia"
-echo "2. Telkomsel"
-echo "3. Matahari Mall"
-echo "4. PHD"
-echo "5. Jd.Id"
+echo "\033[36;1m Available Fiture :"
+echo "1. Spam Call&Sms by Tokopedia"
+echo "2. Spam SMS by Telkomsel"
+echo "3. Spam SMS by Matahari Mall"
+echo "4. Spam SMS by PHD"
+echo "5. Spam SMS by Jd.Id"
 echo "6. Email Bomber"
-echo "0. Keluar"
-echo "\033[30;1m81. Informasi Tool Ini"
-echo "\033[33;1m Pilih Angka:"
+echo "0. Leave"
+echo "\033[30;1m81. Information on this tool"
+echo "\033[33;1m Select a number:"
 read mrrm
 if [ $mrrm = 1 ] || [ $mrrm = 1 ]
 then
 clear
 echo "\033[34;1m"
-figlet "tokopedia"
+toilet "Tokopedia"
 php 1.php
 fi
 
@@ -42,7 +42,7 @@ if [ $mrrm = 3 ] || [ $mrrm = 3 ]
 then
 clear
 echo "\033[31;1m"
-figlet "Mthr Mall"
+toilet "Matahari Mall"
 php 3.php
 fi
 
@@ -71,6 +71,15 @@ clear
 toilet -f standard -F gay "Email Bomber"
 echo "\033[36;1m"
 python2 6.py
+fi
+
+if
+[ $mrrm = 6 ] || [ $mrrm = 6 ]
+then
+clear
+toilet -f standard -F gay "Tri"
+echo "\033[33;1m"
+python2 7.py
 fi
 
 if
@@ -104,9 +113,9 @@ fi
 if
 [ $mrrm = 0 ] || [ $mrrm = 0 ]
 then
-echo "\033[31;1m Keluar"
+echo "\033[31;1m Leave"
 sleep 1
-echo "\033[32;1m Sampai berjumpa lagi :)"
+echo "\033[32;1m Thanks For Use :)"
 sleep 1
 fi
 
