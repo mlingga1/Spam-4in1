@@ -1,11 +1,5 @@
 # Tool SPAM 7IN1 By Priv8-L1ng
-```sh
-| Don't Give Up To Learning Coder
-| Author Ling-Coder
-| Github : https://github.com/mlingga1
-| Instagram : @Linggaa404
-```
-_____________________________________________________
+
 ## Tutorial Install
 ```sh
 $ apt update
@@ -18,5 +12,12 @@ $ cd ToolSpam7in1
 $ sh spam.sh
 $ Done!
 ```
+```sh
+| Don't Give Up To Learning Coder
+| Author Ling-Coder
+| Github : https://github.com/mlingga1
+| Instagram : @Linggaa404
+```
+_____________________________________________________
 ## Thanks For Using This Tool :), Please use this tool wisely ^_^
 # Regards!
