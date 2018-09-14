@@ -1,17 +1,21 @@
 #!/system/xbin/bash
 #Jangan Recode
-#Indonesia Security Lite
+#Bekasi Coder
 clear
-toilet -f slant -F gay "LITEFONT"
+toilet -f slant -F gay "Priv8-L1ng"
 sleep 0.30
-echo "\033[31;1m [★]================================================[★]"
-echo "\033[32;1m [-]Coder    : Mr.IM81                              [-]"
-echo "\033[36;1m [★]Team     : Indonesia Security Lite              [★]"
-echo "\033[32;1m [-]Version  : 1.0                                  [-]"
-echo "\033[31;1m [★]================================================[★]"
+echo "
+_____________________________________________________
+    ____       _       ____        __   ___
+   / __ \_____(_)   __( __ )      / /  <  /___  ____ _
+  / /_/ / ___/ / | / / __  |_____/ /   / / __ \/ __ `/   | Don't Give Up To Learning Coder
+ / ____/ /  / /| |/ / /_/ /_____/ /___/ / / / / /_/ /    | Author Ling-Coder
+/_/   /_/  /_/ |___/\____/     /_____/_/_/ /_/\__, /     | Github : https://github.com/mlingga1
+                                             /____/      | Instagram : @Linggaa404
+_____________________________________________________"
 sleep 2
 echo ""
-echo "\033[35;1m Font Yang Tersedia:"
+echo "\033[35;1m Available Font :"
 sleep 1
 echo "\033[36;1m
  1. ascii9 
@@ -53,19 +57,19 @@ echo "\033[36;1m
  37. standard
  38. term
  39. wideterm"
- echo "\033[31;1m 40. Keluar"
+ echo "\033[31;1m 40. Leave"
  echo ""
  sleep 1
- echo "\033[33;1m Pilih Nomor"
+ echo "\033[33;1m Select a number"
  read -p "[?] use > " p
  
  if [ $p = 40 ]
  then
  clear
- toilet -f standard -F gay "LiteFont"
- echo "\033[35;1m Terima Kasih"
+ toilet -f standard -F gay "Priv8-L1ng"
+ echo "\033[35;1m Thank You"
  sleep 0.30
- echo "\033[31;1m Subkreb YouTube:" "\033[36;1mIndonesia Security Lite"
+ echo "\033[31;1m Subscribe YouTube:" https://www.youtube.com/channel/UCJxAv8GFUKO0Qsqq6aM2fYw/ "\033[36;1mBekasi Coder"
  sleep 1
  exit
  fi
@@ -78,7 +82,7 @@ echo "\033[36;1m
  clear
  toilet -f ascii9 -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -88,7 +92,7 @@ echo "\033[36;1m
  clear
  toilet -f ascii12 -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -98,7 +102,7 @@ echo "\033[36;1m
  clear
  toilet -f banner -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -108,7 +112,7 @@ echo "\033[36;1m
  clear
  toilet -f big -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -118,7 +122,7 @@ echo "\033[36;1m
  clear
  toilet -f bigascii9 -F gay"$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -128,7 +132,7 @@ echo "\033[36;1m
  clear
  toilet -f bigascii12 -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -138,7 +142,7 @@ echo "\033[36;1m
  clear
  toilet -f bigmono9 -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -148,7 +152,7 @@ echo "\033[36;1m
  clear
  toilet -f bigmono12 -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -158,7 +162,7 @@ echo "\033[36;1m
  clear
  toilet -f block -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -168,7 +172,7 @@ echo "\033[36;1m
  clear
  toilet -f bubble -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -178,7 +182,7 @@ echo "\033[36;1m
  clear
  toilet -f circle -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -188,7 +192,7 @@ echo "\033[36;1m
  clear
  toilet -f digital -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -198,7 +202,7 @@ echo "\033[36;1m
  clear
  toilet -f emboss -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -208,7 +212,7 @@ echo "\033[36;1m
  clear
  toilet -f emboss2 -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -218,7 +222,7 @@ echo "\033[36;1m
  clear
  toilet -f future -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -228,7 +232,7 @@ echo "\033[36;1m
  clear
  toilet -f ivrit -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -238,7 +242,7 @@ echo "\033[36;1m
  clear
  toilet -f lean -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -248,7 +252,7 @@ echo "\033[36;1m
  clear
  toilet -f letter -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -258,7 +262,7 @@ echo "\033[36;1m
  clear
  toilet -f mini -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -268,7 +272,7 @@ echo "\033[36;1m
  clear
  toilet -f mnemonic -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -278,7 +282,7 @@ echo "\033[36;1m
  clear
  toilet -f mono9 -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -288,7 +292,7 @@ echo "\033[36;1m
  clear
  toilet -f mono12 -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -298,7 +302,7 @@ echo "\033[36;1m
  clear
  toilet -f pagga -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -308,7 +312,7 @@ echo "\033[36;1m
  clear
  toilet -f script -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -318,7 +322,7 @@ echo "\033[36;1m
  clear
  toilet -f shadow -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -328,7 +332,7 @@ echo "\033[36;1m
  clear
  toilet -f slant -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -338,7 +342,7 @@ echo "\033[36;1m
  clear
  toilet -f small -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -348,9 +352,9 @@ echo "\033[36;1m
  clear
  toilet -f smascii9 -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
- sh LITEFONT.sh
+ sh font.sh
  fi
  
  if [ $p = 29 ]
@@ -358,7 +362,7 @@ echo "\033[36;1m
  clear
  toilet -f smascii12 -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -368,7 +372,7 @@ echo "\033[36;1m
  clear
  toilet -f smblock -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -378,7 +382,7 @@ echo "\033[36;1m
  clear
  toilet -f smbraille -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -388,7 +392,7 @@ echo "\033[36;1m
  clear
  toilet -f smmono9 -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -398,7 +402,7 @@ echo "\033[36;1m
  clear
  toilet -f smmono12 -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -408,7 +412,7 @@ echo "\033[36;1m
  clear
  toilet -f smscript -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -418,7 +422,7 @@ echo "\033[36;1m
  clear
  toilet -f smshadow -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -428,7 +432,7 @@ echo "\033[36;1m
  clear
  toilet -f smslant -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -438,7 +442,7 @@ echo "\033[36;1m
  clear
  toilet -f standard -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -448,7 +452,7 @@ echo "\033[36;1m
  clear
  toilet -f term -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
@@ -458,7 +462,7 @@ echo "\033[36;1m
  clear
  toilet -f wideterm -F gay "$text"
  sleep $jeda
- echo "selesai"
+ echo "Done!"
  sleep 0.30
  sh font.sh
  fi
