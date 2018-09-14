@@ -10,15 +10,15 @@ import getpass
 import sys
 
 
-server = raw_input ('Pilih Gmail/Yahoo?: ')
-user = raw_input('Emailmu: ')
-passwd = getpass.getpass('Passwordmu: ')
+server = raw_input ('Choose Gmail or Yahoo: ')
+user = raw_input('Your Email: ')
+passwd = getpass.getpass('Your Password: ')
 
 
-to = raw_input('\nMasukan Email Target: ')
+to = raw_input('\nEnter Email Target: ')
 #subject = raw_input('Subject: ') 
-body = raw_input('Pesan Spam?: ')
-total = input('Berapa: ')
+body = raw_input('Spam Messages: ')
+total = input('Amount: ')
 
 if server == 'gmail':
     smtp_server = 'smtp.gmail.com'
@@ -45,10 +45,10 @@ try:
         print "\rE-mails sent: %i" % i
         sys.stdout.flush()
     server.quit()
-    print '\n LiteSpam Sukses!!!'
+    print '\n Priv8-L1ng Spam Sukses!!!'
 except KeyboardInterrupt:
     print '[-] Canceled'
     sys.exit()
 except smtplib.SMTPAuthenticationError:
-    print '\n[!] Mungkin Nama Pengguna Dan Sandi Email Anda Salah'
+    print '\n[!] your username and email password is incorrect'
     sys.exit()
