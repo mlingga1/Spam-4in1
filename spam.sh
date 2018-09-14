@@ -76,7 +76,7 @@ if
 [ $mrrm = 6 ] || [ $mrrm = 6 ]
 then
 clear
-toilet -f standard -F gay "Email Bomber"
+toilet -f standard -F gay "Tri"
 echo "\033[36;1m"
 python2 6.py
 fi
@@ -85,7 +85,7 @@ if
 [ $mrrm = 7 ] || [ $mrrm = 7 ]
 then
 clear
-toilet -f mono12 -F gay "Tri"
+toilet -f mono12 -F gay "Email Bomber"
 echo "\033[33;1m"
 php 7.php
 fi
