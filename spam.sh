@@ -1,21 +1,21 @@
 #!/system/xbin/bash
 clear
-print("""\
-   __  __________  __
-  /  |/  /  _/ _ \/ / | Make-It-Ring!
- / /|_/ // // , _/_/  | Author: Priv8-L1ng
-/_/  /_/___/_/|_(_)   | https://github.com/mlingga1
+echo "
 _____________________________________________________
-""")
-echo "<--々Spam By Priv8-L1ng々-->"
+    ____       _       ____        __   ___
+   / __ \_____(_)   __( __ )      / /  <  /___  ____ _
+  / /_/ / ___/ / | / / __  |_____/ /   / / __ \/ __ `/   | Don't Give Up To Learning Coder
+ / ____/ /  / /| |/ / /_/ /_____/ /___/ / / / / /_/ /    | Author Ling-Coder
+/_/   /_/  /_/ |___/\____/     /_____/_/_/ /_/\__, /     | Github : https://github.com/mlingga1
+                                             /____/      | Instagram : @Linggaa404
+_____________________________________________________"
+echo "<--々Spam By Lingga Ganteng々-->"
 sleep 1
 echo "\033[31;1m List Tool Spam"
 sleep 1
-echo "\033[33;1m Author: -〤Lingga〤-"
+echo "\033[32;1m Contact: kepo anjing"
 sleep 1
-echo "\033[32;1m ★Contact: kepo anjing"
-sleep 1
-echo "\033[34;1m ★Bekasi Sequrity"
+echo "\033[34;1m Bekasi Coder404"
 sleep 1
 echo "\033[36;1m Available Fiture :"
 echo "1. Spam Call&Sms by Tokopedia"
@@ -23,8 +23,8 @@ echo "2. Spam SMS by Telkomsel"
 echo "3. Spam SMS by Matahari Mall"
 echo "4. Spam SMS by PHD"
 echo "5. Spam SMS by Jd.Id"
-echo "6. Email Bomber"
-echo "7. Spam SMS by Tri"
+echo "6. Spam SMS by Tri"
+echo "7. Email Bomber"
 echo "0. Leave"
 echo "\033[30;1m81. Information on this tool"
 echo "\033[33;1m Select a number:"
