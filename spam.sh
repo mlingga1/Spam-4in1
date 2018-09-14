@@ -1,6 +1,8 @@
 #!/system/xbin/bash
 clear
 toiler -f smslant -F gay "Priv8-L1ng"
+sleep 0.30
+echo "_____________________________________________________"
 echo "\033[33;1m        <--々Spam By Lingga Ganteng々-->         "
 sleep 1
 echo "\033[31;1m List Tool Spam"
