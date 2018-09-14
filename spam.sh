@@ -1,14 +1,6 @@
 #!/system/xbin/bash
 clear
-echo "
-_____________________________________________________
-    ____       _       ____        __   ___
-   / __ \_____(_)   __( __ )      / /  <  /___  ____ _
-  / /_/ / ___/ / | / / __  |_____/ /   / / __ \/ __ `/   | Don't Give Up To Learning Coder
- / ____/ /  / /| |/ / /_/ /_____/ /___/ / / / / /_/ /    | Author Ling-Coder
-/_/   /_/  /_/ |___/\____/     /_____/_/_/ /_/\__, /     | Github : https://github.com/mlingga1
-                                             /____/      | Instagram : @Linggaa404
-_____________________________________________________"
+toiler -f smslant -F gay "Priv8-L1ng"
 echo "\033[33;1m        <--々Spam By Lingga Ganteng々-->         "
 sleep 1
 echo "\033[31;1m List Tool Spam"
