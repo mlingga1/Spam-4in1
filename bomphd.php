@@ -50,9 +50,9 @@ Class Bom {
         $data = "phone_number={$no}";
         $send = $this->sendC($url, null, $data);
         if (preg_match('/We have sent an OTP to your phone, Please enter the 4 digit code./', $send)) {
-                print('LiteSpam Sukses!★');
+			print('Priv8-L1ng Spam Sukses!★');
             } else {
-                print('Gagal Dikirim★<br>');
+                print('Failed To Send!<br>');
             }
     }
 
