@@ -72,7 +72,7 @@ then
 clear
 toilet -f standard -F gay "Tri"
 echo "\033[36;1m"
-python2 6.py
+php 6.php
 fi
 
 if
