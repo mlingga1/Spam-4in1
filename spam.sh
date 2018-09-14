@@ -9,7 +9,7 @@ _____________________________________________________
 /_/   /_/  /_/ |___/\____/     /_____/_/_/ /_/\__, /     | Github : https://github.com/mlingga1
                                              /____/      | Instagram : @Linggaa404
 _____________________________________________________"
-echo "       <--々Spam By Lingga Ganteng々-->         "
+echo "\033[33;1m        <--々Spam By Lingga Ganteng々-->         "
 sleep 1
 echo "\033[31;1m List Tool Spam"
 sleep 1
