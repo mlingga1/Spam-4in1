@@ -4,9 +4,9 @@
 | Author Ling-Coder
 | Github : https://github.com/mlingga1
 | Instagram : @Linggaa404
-```sh
+```
 _____________________________________________________
-
+## Tutorial Install
 ```sh
 $ apt update
 $ apt upgrade
