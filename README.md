@@ -1,10 +1,10 @@
 # Tool SPAM 7IN1 By Priv8-L1ng
-#    ____       _       ____        __   ___
-#   / __ \_____(_)   __( __ )      / /  <  /___  ____ _
-#  / /_/ / ___/ / | / / __  |_____/ /   / / __ \/ __ `/   | Don't Give Up To Learning Coder
-# / ____/ /  / /| |/ / /_/ /_____/ /___/ / / / / /_/ /    | Author Ling-Coder
-#/_/   /_/  /_/ |___/\____/     /_____/_/_/ /_/\__, /     | Github : https://github.com/mlingga1
-                                             /____/       | Instagram : @Linggaa404
+```sh
+| Don't Give Up To Learning Coder
+| Author Ling-Coder
+| Github : https://github.com/mlingga1
+| Instagram : @Linggaa404
+```sh
 _____________________________________________________
 
 ```sh
