@@ -20,11 +20,11 @@ function jdidbom($no, $jum, $wait){
         flush();
     }
 }
-echo "Nomor Target : ";
+echo "</> Number Victims : ";
 $nomor = trim(fgets(STDIN));
-echo "Jumlah Pesan: ";
+echo "</> Number Of Message : ";
 $jumlah = trim(fgets(STDIN));
-echo "Jeda : ";
+echo "Delay : ";
 $jeda = trim(fgets(STDIN));
 $execute = jdidbom($nomor, $jumlah, $jeda);
 print $execute;
